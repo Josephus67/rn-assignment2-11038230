@@ -7,5 +7,5 @@ Edited the Text component to display "My name is YourName".
 Increased the font size of the text to 24.
 Made the name "YourName" bold.
 Screenshot
-
+WhatsApp Image 2024-05-27 at 05.42.22.jpeg
 Student ID: 11038230
